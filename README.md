@@ -40,7 +40,7 @@ The dataset contains Walmart transactional data and includes fields such as:
 * Gross Income
 * Rating
 
-**Note**: Dataset link is titled as "[Walmartsales Dataset]((Walmartsales Dataset - walmartsales.csv))"
+**Note**: Dataset link is titled as Walmartsales Dataset
 ## Tasks Completed
 
 | Task No. | Description                                                            |
