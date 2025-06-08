@@ -40,7 +40,7 @@ The dataset contains Walmart transactional data and includes fields such as:
 * Gross Income
 * Rating
 
-**Note**: Dataset link is titled as "Walmartsales Dataset".
+**Note**: Dataset link is titled as "[Walmartsales Dataset]([url](https://github.com/priyanshsaini2/Performance-Analysis-of-Walmart-Stores-Using-Advanced-MySQL/blob/main/Walmartsales%20Dataset%20-%20walmartsales.csv))".
 
 ## Tasks Completed
 
