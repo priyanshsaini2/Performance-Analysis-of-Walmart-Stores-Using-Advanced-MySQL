@@ -1,7 +1,3 @@
-Here's a clean, professional `README.md` file you can use for your GitHub repository:
-
----
-
 # Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
 
 ## Overview
@@ -100,6 +96,3 @@ The dataset contains Walmart transactional data and includes fields such as:
 
 All work is original and any use of external resources has been clearly mentioned. Plagiarism in any form may lead to disqualification as per the project guidelines.
 
----
-
-Let me know if you’d like help generating sample SQL queries or slides too.
