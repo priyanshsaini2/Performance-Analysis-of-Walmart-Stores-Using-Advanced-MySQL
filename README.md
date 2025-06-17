@@ -78,20 +78,6 @@ The dataset contains Walmart transactional data and includes fields such as:
 * Microsoft PowerPoint
 * Google Drive (for video upload)
 
-## Evaluation Criteria
-
-* Accuracy and depth of SQL queries
-* Insightful and well-structured analysis
-* Clear and visually appealing presentation
-* Effective video explanation within the 5-minute limit
-
-## Submission Instructions
-
-1. Place the SQL file, PowerPoint presentation, and video link (as a text file) into a folder.
-2. Compress the folder into a `.zip` file.
-3. Submit the zipped file as per project guidelines.
-
 ## Disclaimer
 
-All work is original and any use of external resources has been clearly mentioned. Plagiarism in any form may lead to disqualification as per the project guidelines.
-
+All work is original and any use of external resources has been clearly mentioned.
